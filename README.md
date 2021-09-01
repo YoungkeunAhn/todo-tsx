@@ -1,2 +1,5 @@
 # Todo app
-리액트 타입스크립트를 사용한 간단한 투두앱
+오늘의 할일을 적을 수 있는 투두앱
+
+#개발환경
+React / Typescript / Material-ui 
